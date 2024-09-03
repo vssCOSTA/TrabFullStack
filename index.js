@@ -1,4 +1,4 @@
 window.onload = function() {
-    window.location.href = "/pages/home.html";
+    window.location.href = "/Páginas/tela-principal.html";
 };
  
